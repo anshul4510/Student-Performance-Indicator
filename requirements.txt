@@ -9,4 +9,6 @@ flask
 memory_profiler
 scikit-learn
 imblearn
+catboost
+xgboost
 -e .
