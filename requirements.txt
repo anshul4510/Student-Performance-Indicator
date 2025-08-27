@@ -11,4 +11,5 @@ scikit-learn
 imblearn
 catboost
 xgboost
+dill
 -e .
